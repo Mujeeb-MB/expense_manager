@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/expense_manager/BuildConfig.java
+ com.example.expense_manager.BuildConfig
